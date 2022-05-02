@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <div className={`
       flex h-screen justify-center items-center
-      bg-gradient-to-r from-gray-500 to-gray-800
+      bg-gradient-to-r from-gray-500 to-gray-900
       text-white`}>
       <Layout titulo='Cadastro Simples'>
         {tabelaVisivel ? (
